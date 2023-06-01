@@ -10,7 +10,7 @@ Full Stack Software Engineer with experience using Javascript and Python. Manufa
 </p>
 
 
-## Skills :computer:
+## Skills :desktop_computer::
 
 #### Languages:
 
