@@ -3,7 +3,7 @@
 Full Stack Software Engineer with experience using Javascript and Python. Manufacturing production planning background with strong problem solving skills with an ambition to expand my Software Engineering knowledge!
 
 Currently expanding my understanding of complex data structures and how to apply them to solve algorithms using Javascript and Python3.
-Check Out my Progress at my <a href="https://leetcode.com/collinsakuma/">Leetcode Profile</a> and the <a href="https://github.com/collinsakuma/LeetCode/tree/main" >repo<a/> I created for my solution as well as testing them. 
+Check out my progress at my <a href="https://leetcode.com/collinsakuma/">Leetcode Profile</a> and the <a href="https://github.com/collinsakuma/LeetCode/tree/main" >repo<a/> I created so I can add comments to the solutions as well as write my own test cases for testing my solutions.  
 
 
 ## Connect with me at :mailbox:
