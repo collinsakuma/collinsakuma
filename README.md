@@ -37,6 +37,7 @@ Check out my progress at my <a href="https://leetcode.com/collinsakuma/">Leetcod
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)&nbsp;
 
-
+##
+  
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=collinsakuma&theme=tokyonight&hide_border=true" alt="Durgesh's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinsakuma&layout=compact&theme=tokyonight&hide_border=true"/></a> |
 | ------------- | ------------- |
