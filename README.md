@@ -37,7 +37,7 @@ Full Stack Software Engineer with experience using Javascript and Python. Manufa
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=collinsakuma)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collinsakuma)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collinsakuma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=collinsakuma" alt="Durgesh's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinsakuma&layout=compact"/></a> |
