@@ -7,7 +7,7 @@ Full Stack Software Engineer with experience using Javascript and Python. Manufa
 
 <p>
   <a href="https://www.linkedin.com/in/collin-sakuma/" target="" align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30"/></a>
-    <a href="https://medium.com/@collinsakuma" target="" align="left"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="30"/></a>  
+    <a href="https://medium.com/@collinsakuma" target="" align="left"><img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-medium-1.png" height="30" width="30"/></a>  
 </p>
 
 
