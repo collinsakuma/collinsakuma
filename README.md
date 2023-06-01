@@ -35,7 +35,10 @@ Full Stack Software Engineer with experience using Javascript and Python. Manufa
 ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)&nbsp;
 
 
-<p align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=collinsakuma)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collinsakuma)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=collinsakuma" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinsakuma" /></a> |
+| ------------- | ------------- |
