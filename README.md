@@ -27,7 +27,6 @@ Full Stack Software Engineer with experience using Javascript and Python. Manufa
 ![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)&nbsp;
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![materialui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Semantic UI React](https://img.shields.io/static/v1?style=for-the-badge&message=Semantic+UI+React&color=222222&logo=Semantic+UI+React&logoColor=35BDB2&label=)&nbsp;
 
 #### Databases:
