@@ -33,3 +33,6 @@ Full Stack Software Engineer with experience using Javascript and Python. Manufa
 #### Databases:
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)&nbsp;
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=collinsakuma)](https://github.com/anuraghazra/github-readme-stats)
