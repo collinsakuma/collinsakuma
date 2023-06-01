@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Collin 👋
 
 <!--
 **collinsakuma/collinsakuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Full Stack Software Engineer with experince Javascript and Python. Manufacturing production planning background with strong problem solving skills with an ambition to expand my Software Engineering knowledge!
