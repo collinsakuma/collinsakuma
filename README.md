@@ -6,5 +6,5 @@ Full Stack Software Engineer with experience using Javascript and Python. Manufa
 ## Find me at :mailbox:
 
 <p>
-  <a href="https://www.linkedin.com/in/collin-sakuma/" target="" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>  
+  <a href="https://www.linkedin.com/in/collin-sakuma/" target="" align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30"/></a>  
 </p>
